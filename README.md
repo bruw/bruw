@@ -1,5 +1,5 @@
 # :jack_o_lantern: About Me
-👨‍💻 I’m a backend developer with experience in PHP, Laravel, MySQL, Docker, Git, and automated testing with PHPUnit. I focus on building scalable, well-organized solutions, with strong attention to architecture, requirements, and development best practices.
+👨‍💻 I’m a full stack developer with experience in PHP, Laravel, MySQL, Docker, Git, and automated testing with PHPUnit. I focus on building scalable, well-organized solutions, with strong attention to architecture, requirements, and development best practices.
 
 🎓 I hold a degree in Internet Systems Technology from UTFPR (Federal University of Technology – Paraná). For my final graduation project, I developed “Tá Safe: Mobile Phone Traceability System,” applying techniques such as web scraping, fuzzy matching, OCR, and data processing to validate mobile device ownership through electronic invoices (NF-e).
 
