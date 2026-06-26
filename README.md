@@ -1,11 +1,11 @@
 # :jack_o_lantern: About Me
-👨‍💻 Full Stack Developer with experience in PHP, Laravel, React Native, MySQL, Docker, Git, and automated testing with PHPUnit. I build scalable and well-structured solutions, working across the entire software development lifecycle—from requirements gathering to software architecture decisions—always focused on quality, maintainability, and engineering best practices.
+👨‍💻 Desenvolvedor full stack com experiência em PHP, Laravel, React Native, MySQL, Docker, Git e testes automatizados com PHPUnit. Atuo no desenvolvimento de soluções escaláveis e bem estruturadas, desde o levantamento de requisitos até decisões de arquitetura de software, sempre com foco em qualidade, mantenabilidade e boas práticas de engenharia.
 
-🎓 Graduated in Internet Systems Technology from UTFPR. For my final graduation project, I developed "Tá Safe: Mobile Phone Traceability System", applying techniques such as Web Scraping, Fuzzy Matching, OCR, and data processing to validate mobile device ownership through Brazilian electronic invoices (NF-e), combining multiple technologies to solve a real-world problem.
+🎓 Formado em Tecnologia em Sistemas para Internet pela UTFPR. No Trabalho de Conclusão de Curso, desenvolvi o projeto "Tá Safe: Sistema para Rastreabilidade de Celulares", aplicando técnicas como Web Scraping, Fuzzy Matching, OCR e processamento de dados para validar a propriedade de dispositivos móveis por meio de NF-e, combinando diferentes tecnologias para solucionar um problema real.
 
-🧩 Over the past few years, I served as the lead backend developer in the development and evolution of a healthcare SaaS platform. I was responsible for building the MVP and actively contributed to its growth and adoption across multiple institutions. During this period, I participated in technical decision-making, implemented automated testing, carried out refactoring initiatives to reduce technical debt, and developed complex business rules, contributing to the platform's scalability and sustainable growth.
+🧩 Nos últimos anos, atuei como principal desenvolvedor backend na construção e evolução de uma plataforma SaaS para a área da saúde. Fui responsável pela criação do MVP e participei ativamente da sua evolução até a adoção por múltiplas instituições. Nesse período, participei das decisões técnicas, implementei testes automatizados, realizei refatorações para redução de dívida técnica e desenvolvi regras de negócio complexas, contribuindo para a escalabilidade e o crescimento sustentável da plataforma.
 
-🚀 I am seeking backend or full stack development opportunities in environments that value technical excellence, autonomy, and continuous improvement.
+🚀 Busco oportunidades como desenvolvedor backend ou full stack em ambientes que valorizem excelência técnica, autonomia e evolução contínua.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brunowogt) 
