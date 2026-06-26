@@ -1,4 +1,3 @@
-# :jack_o_lantern: About Me
 👨‍💻 Desenvolvedor full stack com experiência em PHP, Laravel, React Native, MySQL, Docker, Git e testes automatizados com PHPUnit. Atuo no desenvolvimento de soluções escaláveis e bem estruturadas, desde o levantamento de requisitos até decisões de arquitetura de software, sempre com foco em qualidade, mantenabilidade e boas práticas de engenharia.
 
 🎓 Formado em Tecnologia em Sistemas para Internet pela UTFPR. No Trabalho de Conclusão de Curso, desenvolvi o projeto "Tá Safe: Sistema para Rastreabilidade de Celulares", aplicando técnicas como Web Scraping, Fuzzy Matching, OCR e processamento de dados para validar a propriedade de dispositivos móveis por meio de NF-e, combinando diferentes tecnologias para solucionar um problema real.
