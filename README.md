@@ -1,12 +1,12 @@
 
 # Sobre
-👨‍💻 Sou desenvolvedor full stack com foco em backend. Tenho experiência em PHP, Laravel, React Native, MySQL, Docker, Git e testes automatizados com PHPUnit. Atuo no desenvolvimento de soluções escaláveis, com foco em qualidade, manutenção e evolução, desde o levantamento de requisitos até a definição da arquitetura de software, sempre seguindo boas práticas de engenharia.
+👨‍💻 Sou desenvolvedor full stack pleno com foco em backend. Tenho experiência em PHP, Laravel, React Native, MySQL, Docker, Git e testes automatizados com PHPUnit. Atuo no desenvolvimento de soluções escaláveis, com foco em qualidade, manutenção e evolução, desde o levantamento de requisitos até a definição da arquitetura de software.
 
 🎓 Formado em Tecnologia em Sistemas para Internet pela UTFPR. No Trabalho de Conclusão de Curso, desenvolvi o projeto "Tá Safe: Sistema para Rastreabilidade de Celulares", aplicando técnicas como Web Scraping, Fuzzy Matching, OCR e processamento de dados para validar a propriedade de dispositivos móveis por meio da NF-e.
 
-🧩 Nos últimos anos, atuei como principal desenvolvedor backend na construção e evolução de uma plataforma SaaS para a área da saúde. Fui responsável pela criação do MVP e participei ativamente da sua evolução até a adoção por múltiplas instituições. Nesse período, contribuí para decisões técnicas, implementei testes automatizados, realizei refatorações para redução de dívida técnica e desenvolvi regras de negócio complexas, contribuindo para a escalabilidade e o crescimento sustentável da plataforma.
+🧩 Nos últimos anos, atuei como principal desenvolvedor backend na construção e evolução de uma plataforma SaaS para a área da saúde. Fui responsável pela criação do MVP e participei ativamente da sua evolução até a adoção por múltiplas instituições. Ao longo dessa trajetória, acompanhei a plataforma desde os primeiros estágios até um cenário de uso mais amplo, transformando as necessidades do produto em soluções que sustentaram seu crescimento.
 
-🚀 Aberto a novas conexões, colaborações e oportunidades em desenvolvimento backend ou full stack. Busco ambientes que valorizem excelência técnica, autonomia e evolução contínua.
+🚀 Aberto a novas conexões, colaborações e oportunidades em desenvolvimento backend e/ou full stack. Busco ambientes que valorizem excelência técnica, autonomia e evolução contínua.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brunowogt) 
